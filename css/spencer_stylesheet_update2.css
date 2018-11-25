@@ -112,6 +112,6 @@ h5 {
            }
 
 .footer {
-         margin-left:85%;
+         float: right;
          color: black;
         }
